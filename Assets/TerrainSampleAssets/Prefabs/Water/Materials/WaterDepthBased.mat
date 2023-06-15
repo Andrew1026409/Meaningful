@@ -18,19 +18,24 @@ MonoBehaviour:
     m_Values: 
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: WaterDepthBased
   m_Shader: {fileID: -6465566751694194690, guid: dfd4dcd41b27bb44498bfa407660802f, type: 3}
-  m_ShaderKeywords: _DISABLE_DECALS _DISABLE_SSR _DOUBLESIDED_ON _ENABLE_FOG_ON_TRANSPARENT
-    _SURFACE_TYPE_TRANSPARENT
+  m_ValidKeywords:
+  - _DISABLE_DECALS
+  - _DISABLE_SSR
+  - _DOUBLESIDED_ON
+  - _ENABLE_FOG_ON_TRANSPARENT
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: 2998
   stringTagMap:
     MotionVector: User
     RenderType: Transparent
@@ -141,7 +146,7 @@ Material:
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
     - _TransparentDepthPrepassEnable: 0
-    - _TransparentSortPriority: 0
+    - _TransparentSortPriority: -2
     - _TransparentWritingMotionVec: 0
     - _TransparentZWrite: 0
     - _UseShadowThreshold: 0
@@ -161,6 +166,6 @@ Material:
     - _Rim_Movement: {r: 0.03, g: 0.044, b: 0, a: 0}
     - _Rim_Texture_Repeats: {r: 90, g: 90, b: 0, a: 0}
     - _Shallow_Water_Color: {r: 0.39871842, g: 0.5660378, b: 0.5636129, a: 0}
-    - _Tiling: {r: 18, g: 18, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _fresnel_Remap: {r: 0.66, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
