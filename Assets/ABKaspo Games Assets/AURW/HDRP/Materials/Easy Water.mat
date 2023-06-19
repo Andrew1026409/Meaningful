@@ -148,17 +148,17 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
-    - _Color_A: {r: 0.01957989, g: 0.14573804, b: 0.31132072, a: 0.019607844}
-    - _Color_B: {r: 0, g: 0.65534097, b: 0.81960785, a: 0.09019608}
-    - _Color_C: {r: 0, g: 0.5490196, b: 0.6980392, a: 0.043137256}
+    - _Color_A: {r: 0, g: 0.33333334, b: 0.4117647, a: 0.050980393}
+    - _Color_B: {r: 0.41343293, g: 0.78522027, b: 0.9811321, a: 0.047058824}
+    - _Color_C: {r: 0.5108579, g: 0.8881564, b: 0.990566, a: 0.043137256}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _Direction_A: {r: 1, g: 0, b: 0, a: 0}
     - _Direction_B: {r: -1, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: -1, g: -1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Foam_Color: {r: 2, g: 2, b: 2, a: 0}
-    - _Under_Water_A: {r: 0, g: 2.6980393, b: 5.992157, a: 0.9019608}
-    - _Under_Water_B: {r: 0, g: 0.03604858, b: 0.70710677, a: 1}
+    - _Foam_Color: {r: 2.5945864, g: 2.5945864, b: 2.5945864, a: 0}
+    - _Under_Water_A: {r: 0.32751858, g: 0.68977994, b: 1.1320753, a: 0.9019608}
+    - _Under_Water_B: {r: 0.054378748, g: 0.07005595, b: 0.3679245, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &7506094964774293222
 MonoBehaviour:
