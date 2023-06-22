@@ -7,9 +7,9 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.DE949528" = "render wiz"
+	"last_search.DE949528" = "wiz"
 	"OpenInspectorPreview.DE949528" = "0"
-	"currentGroup.DE949528" = "menu"
+	"currentGroup.DE949528" = "settings"
 }
 providers = {
 	adb = {
@@ -56,6 +56,8 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"w"
+	"d"
 ]
 searchItemFavorites = [
 ]
