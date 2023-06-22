@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.DE949528" = "wiz"
+	"last_search.DE949528" = "preferen"
 	"OpenInspectorPreview.DE949528" = "0"
 	"currentGroup.DE949528" = "settings"
 }
