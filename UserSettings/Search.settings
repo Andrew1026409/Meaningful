@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.DE949528" = "preferen"
+	"last_search.DE949528" = "shader"
 	"OpenInspectorPreview.DE949528" = "0"
 	"currentGroup.DE949528" = "settings"
 }
@@ -56,6 +56,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"f"
 	"w"
 	"d"
 ]
