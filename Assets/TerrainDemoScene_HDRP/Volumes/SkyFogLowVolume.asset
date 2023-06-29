@@ -227,7 +227,7 @@ MonoBehaviour:
     m_Value: 4
   groundTint:
     m_OverrideState: 1
-    m_Value: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 1}
+    m_Value: {r: 0.68345815, g: 1, b: 0.17610055, a: 1}
   groundColorTexture:
     m_OverrideState: 0
     m_Value: {fileID: 0}
@@ -260,7 +260,7 @@ MonoBehaviour:
     m_Value: 1
   horizonTint:
     m_OverrideState: 1
-    m_Value: {r: 0.005399306, g: 0.020059755, b: 0.066037714, a: 1}
+    m_Value: {r: 0.28523853, g: 0.46226418, b: 0, a: 1}
   zenithTint:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -329,7 +329,7 @@ MonoBehaviour:
       m_Value: 0
     tint:
       m_OverrideState: 1
-      m_Value: {r: 0.0061409697, g: 0.08395671, b: 0.084905684, a: 1}
+      m_Value: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 1}
     exposure:
       m_OverrideState: 1
       m_Value: 0
