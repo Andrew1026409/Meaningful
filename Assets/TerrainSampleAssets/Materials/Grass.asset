@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_DiffusionProfileReferences:
-  - {fileID: 11400000, guid: a4f9b0b21cfa10140b76854ccb395dcf, type: 2}
+  - {fileID: 11400000, guid: ced0ded1002e03b4cbe34e685c502de4, type: 2}
   m_MaterialReferences: []
 --- !u!21 &2100000
 Material:
@@ -154,7 +154,7 @@ Material:
     - _CullMode: 0
     - _CullModeForward: 0
     - _DepthOffsetEnable: 0
-    - _DiffusionProfileHash: 2.2579067
+    - _DiffusionProfileHash: 3.002235
     - _Diffusion_Profile: 2.2579067
     - _DoubleSidedEnable: 1
     - _DoubleSidedGIMode: 0
@@ -204,14 +204,14 @@ Material:
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
-    - Fade_Color: {r: 0, g: 0, b: 0, a: 0}
+    - Fade_Color: {r: 1, g: 1, b: 1, a: 0}
     - SplatA: {r: 0, g: 0, b: 0, a: 0}
     - SplatB: {r: 0, g: 0, b: 0, a: 0}
     - SplatG: {r: 0, g: 0, b: 0, a: 0}
     - SplatR: {r: 0, g: 0, b: 0, a: 0}
     - Terrain_Origin: {r: 0, g: 0, b: 0, a: 0}
     - Terrain_Scale: {r: 0, g: 0, b: 0, a: 0}
-    - _DiffusionProfileAsset: {r: -0.00000002060262, g: 7.3194675e-27, b: 69972056, a: -3.7115523e+9}
+    - _DiffusionProfileAsset: {r: -1.1962324e+11, g: -0.0000001221706, b: 3.908038e+24, a: -1.2788309e+22}
     - _Diffusion_Profile_Asset: {r: -0.00000002060262, g: 7.3194675e-27, b: 69972056, a: -3.7115523e+9}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
