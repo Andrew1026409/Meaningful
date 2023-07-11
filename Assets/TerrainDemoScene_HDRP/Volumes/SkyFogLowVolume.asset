@@ -27,10 +27,10 @@ MonoBehaviour:
     m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   tint:
     m_OverrideState: 1
-    m_Value: {r: 0.7798742, g: 1, b: 0.7798742, a: 1}
+    m_Value: {r: 0.43592018, g: 0.8773585, b: 0.43592018, a: 1}
   maxFogDistance:
     m_OverrideState: 1
-    m_Value: 10000
+    m_Value: 10107
   mipFogMaxMip:
     m_OverrideState: 1
     m_Value: 0.3
@@ -42,13 +42,13 @@ MonoBehaviour:
     m_Value: 2000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 293
+    m_Value: 135
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 1182
+    m_Value: 201.1
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 500
+    m_Value: 1750
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
     m_Value: 4
   groundTint:
     m_OverrideState: 1
-    m_Value: {r: 0.68345815, g: 1, b: 0.17610055, a: 1}
+    m_Value: {r: 0.7198596, g: 0.8773585, b: 0.4690281, a: 1}
   groundColorTexture:
     m_OverrideState: 0
     m_Value: {fileID: 0}
@@ -260,7 +260,7 @@ MonoBehaviour:
     m_Value: 1
   horizonTint:
     m_OverrideState: 1
-    m_Value: {r: 0.28523853, g: 0.46226418, b: 0, a: 1}
+    m_Value: {r: 0.54487693, g: 0.8773585, b: 0.0055178693, a: 1}
   zenithTint:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
