@@ -565,7 +565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: AnimationPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 7400000, guid: c52e7e14d339ed44a8c5537de70b48ac, type: 2}
+  m_Clip: {fileID: 7400000, guid: 44c47b2761b12474cb0b2124b9e26148, type: 2}
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
@@ -597,10 +597,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0.26666666666667993
+    m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 5239985539667231143}
-    m_Duration: 19.149999999999995
+    m_Duration: 19.416666666666675
     m_TimeScale: 1
     m_ParentTrack: {fileID: -3015064141741822684}
     m_EaseInDuration: 0
