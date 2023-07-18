@@ -326,7 +326,7 @@ MonoBehaviour:
       m_Value: 0
     rotation:
       m_OverrideState: 1
-      m_Value: 0
+      m_Value: 131
     tint:
       m_OverrideState: 1
       m_Value: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 1}
