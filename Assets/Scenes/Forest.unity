@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 6374.3574, g: 6859.1445, b: 3032.25, a: 1}
+  m_IndirectSpecularColor: {r: 5611.093, g: 6182.672, b: 2283.1484, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2191,7 +2191,7 @@ Terrain:
   m_DrawTreesAndFoliage: 1
   m_StaticShadowCaster: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 2100000, guid: 22ff8771d87ef27429e670136399094b, type: 2}
+  m_MaterialTemplate: {fileID: 2100000, guid: 7b5b7abbad4677946aeaa97106dcbb2b, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
@@ -3269,7 +3269,7 @@ Terrain:
   m_DrawTreesAndFoliage: 1
   m_StaticShadowCaster: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 2100000, guid: 22ff8771d87ef27429e670136399094b, type: 2}
+  m_MaterialTemplate: {fileID: 2100000, guid: 7b5b7abbad4677946aeaa97106dcbb2b, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
@@ -4445,7 +4445,6 @@ Transform:
   - {fileID: 427481454}
   - {fileID: 1113426992}
   - {fileID: 161589480}
-  - {fileID: 802972597}
   - {fileID: 1896211459}
   m_Father: {fileID: 0}
   m_RootOrder: 28
@@ -7485,64 +7484,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3023433396663086157, guid: 451d860cead90b64bbbab1639909594c, type: 3}
   m_PrefabInstance: {fileID: 794270210}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &802972596
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 802972597}
-  - component: {fileID: 802972598}
-  m_Layer: 6
-  m_Name: Decal Projector (3)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &802972597
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 802972596}
-  m_LocalRotation: {x: 0.7910037, y: 0.026555538, z: -0.077211484, w: 0.6063385}
-  m_LocalPosition: {x: 548.476, y: 101.498, z: -39.953}
-  m_LocalScale: {x: 2146.3782, y: 2146.3772, z: 2146.378}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 486470129}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 105.563995, y: 19.587006, z: 11.093002}
---- !u!114 &802972598
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 802972596}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 415ad77b61d1f9b408529f176c86ad69, type: 2}
-  m_DrawDistance: 1000
-  m_FadeScale: 1
-  m_StartAngleFade: 180
-  m_EndAngleFade: 180
-  m_UVScale: {x: 1.742178, y: 2}
-  m_UVBias: {x: 0.17051299, y: 0}
-  m_AffectsTransparency: 0
-  m_DecalLayerMask: 1
-  m_ScaleMode: 0
-  m_Offset: {x: 0.038897634, y: 0, z: 0.068309724}
-  m_Size: {x: 1.628936, y: 1.97, z: 0.74562025}
-  m_FadeFactor: 0.8
-  m_Version: 2
 --- !u!1001 &804068453
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18777,12 +18718,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1896211458}
   m_LocalRotation: {x: 0.7890775, y: 0.061227098, z: -0.103734, w: 0.602368}
-  m_LocalPosition: {x: 548.557, y: 102.255, z: -39.791}
+  m_LocalPosition: {x: 548.557, y: 101.792, z: -39.791}
   m_LocalScale: {x: 2146.3782, y: 2146.3772, z: 2146.378}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 486470129}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 105.563995, y: 19.587006, z: 6.0639954}
 --- !u!114 &1896211460
 MonoBehaviour:
@@ -18806,8 +18747,8 @@ MonoBehaviour:
   m_AffectsTransparency: 0
   m_DecalLayerMask: 1
   m_ScaleMode: 0
-  m_Offset: {x: 0, y: 0, z: -0.07617125}
-  m_Size: {x: 2, y: 2, z: 1.15}
+  m_Offset: {x: 0, y: 0, z: 0.22983998}
+  m_Size: {x: 2, y: 2, z: 1.7620224}
   m_FadeFactor: 0.8
   m_Version: 2
 --- !u!4 &1898999207 stripped
