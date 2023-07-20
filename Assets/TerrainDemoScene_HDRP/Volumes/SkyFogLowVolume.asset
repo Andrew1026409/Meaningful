@@ -212,7 +212,7 @@ MonoBehaviour:
     m_Value: 55261.973
   aerosolDensity:
     m_OverrideState: 1
-    m_Value: 0.035
+    m_Value: 0.186
   aerosolTint:
     m_OverrideState: 0
     m_Value: {r: 0.91194963, g: 0.97256786, b: 1, a: 1}
@@ -227,7 +227,7 @@ MonoBehaviour:
     m_Value: 4
   groundTint:
     m_OverrideState: 1
-    m_Value: {r: 0.7198596, g: 0.8773585, b: 0.4690281, a: 1}
+    m_Value: {r: 0.5747461, g: 0.9339623, b: 0, a: 1}
   groundColorTexture:
     m_OverrideState: 0
     m_Value: {fileID: 0}
