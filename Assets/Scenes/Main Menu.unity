@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 911.8894, g: 1036.5684, b: 223.51184, a: 1}
+  m_IndirectSpecularColor: {r: 618.041, g: 790.27344, b: 169.65796, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1791,7 +1791,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Year: 2506 AD
 
-    Location: Planet Vastil, Archon System'
+    Location: Archon 12, Archon System'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0dbb88c50070c3f4f885744db5291cc0, type: 2}
   m_sharedMaterial: {fileID: -4249301847804370170, guid: 0dbb88c50070c3f4f885744db5291cc0, type: 2}

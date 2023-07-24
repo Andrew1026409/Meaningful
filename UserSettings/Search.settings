@@ -7,9 +7,9 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.DE949528" = "distan"
+	"last_search.DE949528" = "build"
 	"OpenInspectorPreview.DE949528" = "0"
-	"currentGroup.DE949528" = "all"
+	"currentGroup.DE949528" = "menu"
 }
 providers = {
 	adb = {
@@ -56,6 +56,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"b"
 	"pl"
 	"f"
 	"w"
