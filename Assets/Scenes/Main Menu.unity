@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 260.91504, g: 221.53735, b: 98.546036, a: 1}
+  m_IndirectSpecularColor: {r: 485.80176, g: 441.13184, b: 105.64345, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1050,10 +1050,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "It has been 2 years since the war started. \n\nHundreds of thousands have
-    died and more likely will continue to die. What started as a hopeful future has
-    all too quickly turned to ash.\n\nHowever hope is on the horizion, the hostile
-    forces are almost exhausted and they have agreed to negotiate, all you have to
-    do is stay alive until then.\n\n"
+    died and more  will die. What started as a hopeful future has all too quickly
+    turned to ash.\n\nHowever hope is on the horizion, the hostile forces are almost
+    exhausted and they have agreed to negotiate, all you have to do is stay alive
+    until then.\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0dbb88c50070c3f4f885744db5291cc0, type: 2}
   m_sharedMaterial: {fileID: -4249301847804370170, guid: 0dbb88c50070c3f4f885744db5291cc0, type: 2}
@@ -4962,6 +4962,7 @@ GameObject:
   - component: {fileID: 2068645872}
   - component: {fileID: 2068645871}
   - component: {fileID: 2068645873}
+  - component: {fileID: 2068645874}
   m_Layer: 5
   m_Name: TITLE
   m_TagString: Untagged
@@ -5037,7 +5038,7 @@ Animator:
   m_GameObject: {fileID: 2068645869}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4ff8cb911d55e994381721d7120e4014, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3995593a3b01e544792c225475f66e94, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5048,6 +5049,21 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!111 &2068645874
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068645869}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 6ef530207b295b84cbb1aec6a2e54d77, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &2093406637 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7223576992439528571, guid: f611d77947a7ec74692548d60ef94887, type: 3}
