@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 485.80176, g: 441.13184, b: 105.64345, a: 1}
+  m_IndirectSpecularColor: {r: 451.50342, g: 455.02637, b: 104.10083, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1002,7 +1002,7 @@ RectTransform:
   m_GameObject: {fileID: 319403902}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8750501, y: 1.8750501, z: 1.8750501}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1282981392}
@@ -1010,8 +1010,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -977, y: 172}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -571.3926, y: 172}
+  m_SizeDelta: {x: 1052.1461, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &319403904
 MonoBehaviour:
@@ -1050,7 +1050,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "It has been 2 years since the war started. \n\nHundreds of thousands have
-    died and more  will die. What started as a hopeful future has all too quickly
+    died and more will die. What started as a hopeful future has all too quickly
     turned to ash.\n\nHowever hope is on the horizion, the hostile forces are almost
     exhausted and they have agreed to negotiate, all you have to do is stay alive
     until then.\n\n"
@@ -1062,7 +1062,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284020758
+    rgba: 4284020754
   m_fontColor: {r: 0.07027997, g: 0.9716981, b: 0.3457002, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -1080,8 +1080,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1826,8 +1826,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1885,7 +1885,7 @@ RectTransform:
   m_GameObject: {fileID: 702065684}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8750501, y: 1.8750501, z: 1.8750501}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1282981392}
@@ -1893,8 +1893,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -977, y: 498}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -270.83777, y: 498}
+  m_SizeDelta: {x: 1372.3943, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &702065689
 Animator:
@@ -3697,7 +3697,7 @@ RectTransform:
   m_GameObject: {fileID: 1394534018}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8750501, y: 1.8750501, z: 1.8750501}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1282981392}
@@ -3705,8 +3705,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -977, y: 172}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -270.83777, y: 172}
+  m_SizeDelta: {x: 1372.3943, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1394534020
 MonoBehaviour:
@@ -3753,7 +3753,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284020758
+    rgba: 4284020754
   m_fontColor: {r: 0.07027997, g: 0.9716981, b: 0.3457002, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -3771,8 +3771,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
