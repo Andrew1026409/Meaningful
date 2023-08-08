@@ -7,9 +7,9 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.DE949528" = "build"
+	"last_search.DE949528" = "pro-build"
 	"OpenInspectorPreview.DE949528" = "0"
-	"currentGroup.DE949528" = "menu"
+	"currentGroup.DE949528" = "asset"
 }
 providers = {
 	adb = {
