@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 111302737859880745}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.69, y: 59.000183, z: 15.47}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.149, y: 2.149, z: 2.149}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3986867291194184700}
@@ -73,6 +73,7 @@ GameObject:
   - component: {fileID: 3986867291194184700}
   - component: {fileID: 3531905632693945035}
   - component: {fileID: 1981504680024766551}
+  - component: {fileID: 218996176}
   m_Layer: 0
   m_Name: Geom_Rock_Overgrown_B_LOD00
   m_TagString: Untagged
@@ -145,6 +146,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &218996176
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3049700320051529656}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7171912315463218838, guid: b2c98a43e7a97e94280599e0429f11b3, type: 3}
 --- !u!1 &3860966109187613205
 GameObject:
   m_ObjectHideFlags: 0
@@ -289,7 +304,7 @@ MeshRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 8554655104631171556, guid: b2c98a43e7a97e94280599e0429f11b3, type: 3}
+  - {fileID: 2100000, guid: 5eaef835ca7cb5348a6dd35af4e78869, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
