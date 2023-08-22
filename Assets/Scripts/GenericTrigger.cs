@@ -4,6 +4,7 @@ using UnityEngine.Playables;
 public class GenericTrigger : MonoBehaviour
 {
     public PlayableDirector timeline;
+    public GameObject myObject;
  
     // Use this for initialization
     void Start()
@@ -16,7 +17,7 @@ public class GenericTrigger : MonoBehaviour
     {
         if (c.gameObject.tag == "Player")
         {
-            timeline.Stop();
+            myObject.GetComponent<BoxCollider>().enabled = false;
         }
     }
  
